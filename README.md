@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @zelimlee
-- 👀 I’m interested in python, js, Angular.
-- 🌱 I’m currently learning backtesting trading strategy, website develop.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in rust, c.
+- 🌱 I’m currently learning rust
 
 <!---
 zelimlee/zelimlee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
