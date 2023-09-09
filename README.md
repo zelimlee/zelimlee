@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zelimlee
-- 👀 I’m interested in rust, c.
+- 👀 I’m interested in rust, python, TS, and FP
 - 🌱 I’m currently learning rust
 
 <!---
